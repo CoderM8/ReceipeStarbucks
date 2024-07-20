@@ -1,0 +1,58 @@
+[
+  {
+    "id": 25,
+    "name": "Peppermint Bark",
+    "image":"di_peppermint_bark.webp",
+    "instruction":"● Peppermint Hot Chocolate\n● Made with half mocha sauce/half white chocolate sauce",
+    "premium":"1"
+  },
+  {
+    "id": 26,
+    "name": "Cold Hot Chocolate Frappuccino",
+    "image":"di_cold_hot_chocolate_frappuccino.jpeg",
+    "instruction":"● Double Chocolaty Chip Crème Frappuccino\n● Add vanilla syrup (2 pumps tall, 3 grande, 4 venti)\n● Blend in whipped cream for extra creaminess\n● Top with whip and mocha drizzle\n● Optional: Add peppermint syrup for a Peppermint Cold Hot Chocolate",
+    "premium":"1"
+  },
+  {
+    "id": 27,
+    "name": "S’mores Hot Chocolate",
+    "image":"di_smores_hot_chocolate.jpeg",
+    "instruction":"● Hot Chocolate\n● Add chestnut praline syrup (3 pumps tall, 4 grande, 5 venti)\n● Top with whipped cream and mocha drizzle",
+    "premium":"0"
+  },
+  {
+    "id": 28,
+    "name": "Pumpkin Hot Chocolate",
+    "image":"di_pumpkin_hot_chocolate.jpeg",
+    "instruction":"● Hot chocolate\n● Add pumpkin spice sauce (1 pump tall, 2 grande, 3 venti)",
+    "premium":"0"
+  },
+  {
+    "id": 29,
+    "name": "Mexican Hot Chocolate",
+    "image":"di_mexican_hot_chocolate.jpeg",
+    "instruction":"● Hot chocolate made w/ soy milk (no water)\n● Add mocha syrup (1 pump tall, 1.5 grande, 2 venti)\n● Add white mocha syrup (1 pump tall, 1.5 grande, 2 venti)\n● Add cinnamon dolce syrup (2 pumps tall, 3 grande, 4 venti)\n● Ask for cinnamon powder to be added to milk while it’s steamed",
+    "premium":"0"
+  },
+  {
+    "id": 30,
+    "name": "Cinnamon Bun Hot Chocolate",
+    "image":"di_cinnamon_bun_hot_chocolate.jpeg",
+    "instruction":"● 1 pump mocha syrup\n● 1 pump white mocha syrup\n● 1 pump cinnamon dolce syrup\n● 1 pump vanilla syrup\n● (For a venti, add 1 pump of caramel)\n● Milk = Breve\n● Top with whipped cream and cinnamon dolce topping",
+    "premium":"1"
+  },
+  {
+    "id": 31,
+    "name": "Swirl Pow Hot Chocolate",
+    "image":"di_swirl_pow_hot_chocolate.jpeg",
+    "instruction":"● Hot Chocolate\n● Add Vanilla Syrup (1 pump tall, 1.5 pumps grande, 2 pumps venti)\n● Add Mocha Syrup (1 pump tall, 1.5 pumps grande, 2 pumps venti)\n● Top with whipped cream Mocha or Caramel drizzle",
+    "premium":"1"
+  },
+  {
+    "id": 32,
+    "name": "The Cadbury Blackforest",
+    "image":"di_the_cadbury_blackforest.webp",
+    "instruction":"● Signature hot chocolate\n● Add raspberry syrup (2 pumps for a grande is recommended, adjust for other sizes)",
+    "premium":"0"
+  }
+]

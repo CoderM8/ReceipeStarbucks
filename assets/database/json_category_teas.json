@@ -1,0 +1,135 @@
+[
+  {
+    "id": 92,
+    "name": "Passion Coldbuster Tea",
+    "image":"di_passion_coldbuster_tea.webp",
+    "instruction":"● Venti tea with one bag of Passion Tango tea and one bag of Emperor's Cloud and Mist\n● Half steamed lemonade and half boiling water\n● Add a bit of honey",
+    "premium":"0"
+  },
+  {
+    "id": 93,
+    "name": "Superfruit Iced Tea",
+    "image":"di_superfruit_iced_tea.jpeg",
+    "instruction":"● Iced green tea\n● No added water or sweetener\n● 1 scoop of limes\n● 1 scoop of strawberries\n● Optional: 1 scoop of berries for extra fruitiness",
+    "premium":"1"
+  },
+  {
+    "id": 94,
+    "name": "Mango Milk Tea",
+    "image":"di_mango_milk_tea.jpeg",
+    "instruction":"● Iced black tea\n● Made with half and half instead of water\n● Mango syrup (1 pump tall, 2 grande, 2.5 venti)",
+    "premium":"1"
+  },
+  {
+    "id": 95,
+    "name": "Raspberry Iced Tea",
+    "image":"di_raspberry_iced_tea.webp",
+    "instruction":"● Iced half green, half black tea\n● Add raspberry syrup (2 pumps tall, 3 grande, 4 venti)",
+    "premium":"0"
+  },
+  {
+    "id": 96,
+    "name": "Raspberry Milk Tea",
+    "image":"di_raspberry_milk_tea.jpeg",
+    "instruction":"● Iced Black Tea made w/ Half & Half instead of water\n● Add an extra pump of classic syrup\n● Add toffee nut syrup (1 pump tall, 1.5 grande, 2 venti)\n● Add raspberry syrup (1 pump tall, 1.5 grande, 2 venti)",
+    "premium":"1"
+  },
+  {
+    "id": 97,
+    "name": "Popeye Tea",
+    "image":"di_popeye_tea.jpeg",
+    "instruction":"● Unsweetened iced green tea\n● Add matcha powder (1 scoop tall, 1.5 grande, 2 venti)\n● Blend",
+    "premium":"0"
+  },
+  {
+    "id": 98,
+    "name": "Fuzzy Peach Tea",
+    "image":"di_fuzzy_peach_tea.jpeg",
+    "instruction":"● Passion Iced Tea made with half water and half orange mango purée w/light ice\n● Peach syrup instead of the classic syrup",
+    "premium":"1"
+  },
+  {
+    "id": 99,
+    "name": "Swedish Berry Iced Tea",
+    "image":"di_swedish_berry_iced_tea.jpeg",
+    "instruction":"● Iced Passion Tea\n● Sub the water for Berry Hibiscus Juice\n● Add Classic Syrup (2 pumps tall, 3 pumps grande, 4 pumps venti)\n● Add Raspberry Syrup (1 pump tall, 1.5 pumps grande, 2 pumps venti)\n● Add scoop of berries (1/2 scoop for a tall)\n● Add 1 Lime Wheel\n● Shake Shake Shake!",
+    "premium":"0"
+  },
+  {
+    "id": 100,
+    "name": "Peach Ring Tea",
+    "image":"di_peach_ring_tea.jpeg",
+    "instruction":"● Half Passion Tea and Half Valencia Orange Refresher\n● Ask for no water\n● Add peach syrup: 2 pumps for a tall, 3 for a grande, 5 for a venti, or 6 for a trenta",
+    "premium":"1"
+  },
+  {
+    "id": 101,
+    "name": "Strawberry Lemonade Tea",
+    "image":"di_strawberry_lemonade_tea.jpg",
+    "instruction":"● Strawberry lemonade with equal parts black iced tea and lemonade\n● Half the regular amount of strawberry\n● Blend and enjoy!",
+    "premium":"0"
+  },
+  {
+    "id": 102,
+    "name": "Berry Hibiscus Passion Tea",
+    "image":"di_berry_hibiscus_passion_tea.jpeg",
+    "instruction":"● Order a Passion Iced Tea\n● Substitute the water for Very Berry Hibiscus w/ light ice",
+    "premium":"0"
+  },
+  {
+    "id": 103,
+    "name": "Blue Drink",
+    "image":"di_blue_drink.webp",
+    "instruction":"● Passion iced tea\n● Made with Soy Milk\n● Add vanilla syrup",
+    "premium":"1"
+  },
+  {
+    "id": 104,
+    "name": "Green Drink",
+    "image":"di_green_drink.jpg",
+    "instruction":"● Iced black tea\n● Add matcha powder\n● Made with coconut milk",
+    "premium":"0"
+  },
+  {
+    "id": 105,
+    "name": "Purple Drink",
+    "image":"di_purple_drink.jpg",
+    "instruction":"● Passion Iced Tea\n● Made with Soymilk\n● Vanilla syrup\n● Scoops of Blackberries",
+    "premium":"1"
+  },
+  {
+    "id": 106,
+    "name": "Spiced Apple Pie",
+    "image":"di_spiced_apple_pie.webp",
+    "instruction":"● ½ Hot Passion Tango Tea\n● ½ Steamed apple juice\n● Add cinnamon dolce syrup (3 pumps tall, 4 grande, 5 venti)\n● Top with whipped cream, graham cracker and cinnamon dolce sprinkles",
+    "premium":"1"
+  },
+  {
+    "id": 107,
+    "name": "Arnold Palmer",
+    "image":"di_arnold_palmer.jpeg",
+    "instruction":"● Half iced black tea\n● Half lemonade\n● Classic syrup (1.5 pumps tall, 2 pumps grande, 3 pumps venti)",
+    "premium":"0"
+  },
+  {
+    "id": 108,
+    "name": "The Coldbuster",
+    "image":"di_the_coldbuster.jpeg",
+    "instruction":"● Venti Cup w/ a bag of Jade Citrus Mint Tea and a bag of Peach Tranquility Tea\n● Add half hot water and half steamed lemonade\n● Add a little honey for its anti-microbial effects\n● Optional: Add a pump of peppermint",
+    "premium":"0"
+  },
+  {
+    "id": 109,
+    "name": "Pink Raspberry Passion",
+    "image":"di_pink_raspberry_passion.webp",
+    "instruction":"● Start with a Passion Iced Tea (or black iced tea if preferred)\n● Add Raspberry Syrup (2 pumps tall, 3 pumps grande, 4 pumps venti)\n● Blend like a Frappuccino.\n● Top with whipped cream",
+    "premium":"1"
+  },
+  {
+    "id": 110,
+    "name": "London Fog",
+    "image":"di_london_fog.jpeg",
+    "instruction":"● Earl grey tea semi dry misto\n● 2 pumps of vanilla syrup\n● 2 pumps of caramel syrup (optional)",
+    "premium":"0"
+  }
+]

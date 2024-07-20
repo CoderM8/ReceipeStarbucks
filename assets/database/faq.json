@@ -1,0 +1,18 @@
+[
+  {
+    "faq":"Can I access all features?",
+    "answer":"Yes. You can access all features, including 100+ drinks and unlimited secret recipes."
+  },
+  {
+    "faq":"How to cancel the subscription?",
+    "answer":"App Settings -> Cancel Subscription -> Find Frap -> Cancel Your Subscription\nOR\nGoogle Play -> Payments & subscriptions -> Subscriptions -> Find Frap -> Cancel Subscription"
+  },
+  {
+    "faq":"Will be charged when cancelling?",
+    "answer":"No. You can cancel anytime during the trial, and you won't be charged any fees if you cancel it before trial ends."
+  },
+  {
+    "faq":"How to continue using Premium version on my new device?",
+    "answer":"1. Make sure the app on your new device is downloaded from Google Play.\n2. Make sure the account you're using on Google Play is the same as the one you used to subscribe.\n3. Open the app, it'll auto revert to your premium version."
+  }
+]

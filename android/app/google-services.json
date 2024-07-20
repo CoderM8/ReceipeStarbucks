@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "783897503655",
+    "project_id": "recipe-for-starbucks-697ad",
+    "storage_bucket": "recipe-for-starbucks-697ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:783897503655:android:b5efab018ff9d598b0f882",
+        "android_client_info": {
+          "package_name": "com.vocsy.starbucks"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1n_KGx6w2-nssH9Z9UGaXngFZB9CxOOk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

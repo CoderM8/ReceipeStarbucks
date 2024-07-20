@@ -1,0 +1,37 @@
+[
+  {
+    "id": 87,
+    "name": "Pumpkin Smoothie",
+    "image":"di_pumpkin_smoothie.jpeg",
+    "instruction":"● Whole milk to the middle line\n●   6 pumps of Pumpkin Spice sauce\n●   Add 1 scoop of protein powder\n●   Ice, whole banana and blend!",
+    "premium":"1"
+  },
+  {
+    "id": 88,
+    "name": "Berry Vanilla Smoothie",
+    "image":"di_berry_vanilla_smoothie.jpeg",
+    "instruction":"● Coconut milk to the second line\n●   Add crème base\n●   Add 2 scoops of berries\n●   3 scoops of vanilla bean powder\n●   1 banana\n●   Tall scoop of ice and blend",
+    "premium":"0"
+  },
+  {
+    "id": 89,
+    "name": "Berry Forest Smoothie",
+    "image":"di_berry_forest_smoothie.webp",
+    "instruction":"● Strawberry Smoothie\n●   Made with passion tea instead of milk\n●   Add 2 pumps of Raspberry Syrup\n●   Add berries (2 scoops, 3 if you like it extra fruity)",
+    "premium":"1"
+  },
+  {
+    "id": 90,
+    "name": "Cinnamon Dolce Smoothie",
+    "image":"di_cinnamon_dolce_smoothie.jpeg",
+    "instruction":"● Order a  Chocolate Smoothie\n●   Ask for Cinnamon Dolce Syrup instead of Mocha\n●   Add 3 scoops of Vanilla Bean",
+    "premium":"0"
+  },
+  {
+    "id": 91,
+    "name": "Very Berry-licious Smoothie",
+    "image":"di_very_berry_licious_smoothie.png",
+    "instruction":"● Fill first line with milk\n●   Splash of strawberry juice\n●   3 scoops of berries\n●   5 slices of orange\n●   Whole banana\n●   Top with whipped cream",
+    "premium":"0"
+  }
+]

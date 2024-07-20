@@ -1,0 +1,177 @@
+[
+  {
+    "id": 1,
+    "name": "Red Velvet Cinnamon Roll Frappuccino",
+    "image":"di_red_velvet_cinnamon_roll_frappuccino.jpeg",
+    "instruction":"● Mocha Frappuccino made with half regular mocha sauce and half white mocha sauce\n● Add cinnamon dolce syrup (1 pump tall, 2 grande, 3 venti)\n● Add raspberry syrup (1 pump tall, 2 grande, 3 venti)",
+    "premium":"1"
+  },
+  {
+    "id": 2,
+    "name": "Mr and Mrs Vampire Frappuccinos",
+    "image":"di_mr_and_mrs_vampire_frappuccinos.jpg",
+    "instruction":"● Mr. Vampire Frappuccino\n●  Mocha Frappuccino\n● Mocha Sauce on the bottom of cup\n● Strawberry Puree drizzled on top\n● Top with whipped cream\n●  Mrs. Vampire Frappuccino\n●  Vanilla Bean Crème Frappuccino\n● Mocha Sauce on the bottom of cup\n● Strawberry Puree drizzled on top\n● Top with whipped cream",
+    "premium":"1"
+  },
+  {
+    "id": 3,
+    "name": "Bubble Gum Frappuccino",
+    "image":"di_bubble_gum_frappuccino.jpeg",
+    "instruction":"● Strawberries and Creme Frappuccino\n● No classic syrup (unless you like it sweet)\n● Add Raspberry syrup (1 pump for a tall, 2 pumps for a grande, 3 pumps for a venti)",
+    "premium":"0"
+  },
+  {
+    "id": 4,
+    "name": "Cinnamon Toast Crunch Frappuccino",
+    "image":"di_cinnamon_toast_crunch_frappuccino.webp",
+    "instruction":"● White Mocha Frappuccino\n● Add Cinnamon Dolce syrup (1 pump for tall, 1.5 for grande, 2 for venti)\n● Add Hazelnut syrup (1 pump for tall, 1,5 for grande, 2 for venti)\n● Cinnamon sugar blended in\n● Top with whipped cream and more cinnamon sugar",
+    "premium":"0"
+  },
+  {
+    "id": 5,
+    "name": "Caramel and Nut Chocolate Bar Frappuccino",
+    "image":"di_caramel_and_nut_chocolate_bar_frappuccino.jpeg",
+    "instruction":"● Java Chip Frappuccino\n● Add toffee nut syrup (1 pump for a tall, 2 pumps grande, 3 pumps venti)\n● Caramel drizzle in the cup and on top",
+    "premium":"1"
+  },
+  {
+    "id": 5,
+    "name": "Teddy Grahams Frappuccino",
+    "image":"di_teddy_grahams_frappuccino.jpeg",
+    "instruction":"● Start with a Coffee Frappuccino\n● Add Cinnamon Dolce Syrup (1 pump tall, 2 pumps grande, 3 pumps venti)\n● Add Vanilla Syrup (1/2 pump tall, 1 pump grande, 1.5 pumps for a venti)\n● Add honey",
+    "premium":"0"
+  },
+  {
+    "id": 6,
+    "name": "Cinnamon Roll Frappuccino",
+    "image":"di_cinnamon_roll_frappuccino.webp",
+    "instruction":"● Vanilla Bean Frappuccino\n● Add white mocha syrup (1 pump for a tall, 2 for grande, 3 for venti)\n● Add cinnamon dolce syrup (1 pump for a tall, 2 for grande, 3 for venti)\n● Top with cinnamon dolce powder",
+    "premium":"1"
+  },
+  {
+    "id": 7,
+    "name": "Narwhal Frappuccino",
+    "image":"di_narwhal_frappuccino.jpeg",
+    "instruction":"● Blended Strawberry Lemonade\n● Add vanilla bean powder\n● Top with whipped cream and green tea matcha powder",
+    "premium":"0"
+  },
+  {
+    "id": 8,
+    "name": "Pokémon Go Frappuccino",
+    "image":"di_pokemon_go_frappuccino.jpeg",
+    "instruction":"● Vanilla Bean Frappuccino\n● Add raspberry syrup\n● Add freeze dried whole blackberries\n● Top with whipped cream",
+    "premium":"1"
+  },
+  {
+    "id": 9,
+    "name": "Christmas Cookie Frappuccino",
+    "image":"di_christmas_cookie_frappuccino.jpeg",
+    "instruction":"● Start with a creme base Frappuccino\n● Add Peppermint Syrup (1 pump tall, 1.5 pumps grande, 2 pumps venti)\n● Add Toffee Nut Syrup (1 pump tall, 1.5 pumps grande, 2 pumps venti)\n● Top with whipped cream and a raw sugar packet sprinkled on top\n● Optional: Top with caramel drizzle",
+    "premium":"0"
+  },
+  {
+    "id": 10,
+    "name": "Unicorn Frappuccino",
+    "image":"di_unicorn_frappuccino.jpeg",
+    "instruction":"● Crème base Frappuccino\n● Mango Syrup\n● Colored with unicorn pink powder\n● Blue Drizzle made from white mocha, classic syrup and sour unicorn blue powder\n● Top with whip and sprinkle with blue and pink unicorn dust",
+    "premium":"1"
+  },
+  {
+    "id": 11,
+    "name": "Triple Berry Cobbler Frappuccino",
+    "image":"di_triple_berry_cobbler_frappuccino.jpeg",
+    "instruction":"● Vanilla Bean Frappuccino\n● Add white mocha syrup (1 pump tall, 2 grande, 3 venti)\n● Add raspberry syrup (1 pump tall, 2 grande and venti)\n● Add freeze dried blackberries (1 scoop tall, 2 grande, 3 venti)\n● Add blueberries (1 packet tall, 2 grande, 2 venti)\n● Double blend and top with whipped cream",
+    "premium":"0"
+  },
+  {
+    "id": 12,
+    "name": "Butterscotch Frappuccino",
+    "image":"di_butterscotch_frappuccino.webp",
+    "instruction":"● Creme Base\n● Add Pumpkin Spice Sauce (1 for tall, 2 grande, 3 for venti)\n● Add Caramel syrup (1 for tall, 2 grande, 3 for venti)\n● Add Hazelnut syrup  (1 for tall, 2 grande, 3 for venti)\n● Top with whipped cream and caramel drizzle",
+    "premium":"1"
+  },
+  {
+    "id": 13,
+    "name": "Dragon Frappuccino",
+    "image":"di_dragon_frappuccino.png",
+    "instruction":"● Green Tea Frappuccino\n● Add vanilla bean powder\n● Swirl of berry syrup at the bottom of cup\n● Top with whip and purple sprinkles\n● Optional: Add coconut syrup",
+    "premium":"0"
+  },
+  {
+    "id": 14,
+    "name": "Crystal Ball Frappuccino",
+    "image":"di_crystal_ball_frappuccino.jpeg",
+    "instruction":"● Marbled with gem drizzle\n● Made with peach tea infusion\n● Topped with peach whipped cream and candy gem topping in your color choice of purple, blue or green",
+    "premium":"1"
+  },
+  {
+    "id": 15,
+    "name": "Stardust Frappuccino",
+    "image":"di_stardust_frappuccino.jpeg",
+    "instruction":"● Vanilla Bean Frappuccino\n● Add blackberries\n● Blended with sangria",
+    "premium":"0"
+  },
+  {
+    "id": 16,
+    "name": "Cherry Blossom Frappuccino",
+    "image":"di_cherry_blossom_frappuccino.webp",
+    "instruction":"● Strawberries and Crème Frappuccino\n● Line the cup with drizzle made from white mocha sauce and matcha powder\n● Top with whipped cream and matcha powder",
+    "premium":"1"
+  },
+  {
+    "id": 17,
+    "name": "Frappula Frappuccino",
+    "image":"di_frappula_frappuccino.jpeg",
+    "instruction":"● Mocha sauce on the bottom of cup\n● White chocolate sauce, milk and ice blended together\n● Finish with a drizzle of raspberry syrup and whipped cream on top",
+    "premium":"1"
+  },
+  {
+    "id": 18,
+    "name": "Cake Batter Frappuccino",
+    "image":"di_cake_batter_frappuccino.jpeg",
+    "instruction":"● Vanilla Bean Frappuccino\n● Add Hazelnut Syrup (1 pump tall, 1.5 pumps grande, 2 pumps venti) \n● Alternate recipe:\n● If you’re a fan of Starbuck’s Cake Pops, try asking your store if they are able to blend a cake pop into your drink. Not all Starbucks locations will do this, but it doesn’t hurt to ask!\n● Blend a Birthday Cake Pop into a Vanilla Bean Frappuccino for a Birthday Cake Frappuccino!",
+    "premium":"0"
+  },
+  {
+    "id": 19,
+    "name": "Samoa Cookie Frappuccino",
+    "image":"di_samoa_cookie_frappuccino.jpeg",
+    "instruction":"● Mocha Coconut Frappuccino\n● 2 pumps of caramel syrup\n● Ask for extra coconut flakes to be blended into the drink",
+    "premium":"0"
+  },
+  {
+    "id": 20,
+    "name": "Polyjuice Potion Frappuccino",
+    "image":"di_polyjuice_potion_frappuccino.jpeg",
+    "instruction":"● Cherry Blossom Frappuccino (Strawberries and Crème Frappuccino with drizzle lining the cup made from white mocha sauce and matcha powder)\n● Add espresso (1 shot tall and grande, 2 venti)\n● Add vanilla syrup (1 pump tall, 1 ½ grande, 2 venti)",
+    "premium":"1"
+  },
+  {
+    "id": 21,
+    "name": "DunkAroos Frappuccino",
+    "image":"di_dunkaroos_frappuccino.jpeg",
+    "instruction":"● Start with a crème based Frappuccino\n● Heavy cream or whole milk recommended for consistency\n● Add vanilla bean powder (1 scoop tall, 2 grande, 3 venti)\n● Add cinnamon dolce syrup (1 pump tall, 2 grande, 3 venti)\n● Add white mocha syrup (1 pump tall, 2 grande, 3 venti)\n● Top with whip and cinnamon dolce topping\n● Optional: Add java chips (1 scoop tall, 2 grande, 3 venti)",
+    "premium":"0"
+  },
+  {
+    "id": 22,
+    "name": "Skittles Frappuccino",
+    "image":"di_skittles_frappuccino.jpeg",
+    "instruction":"● Strawberries and Crème Frappuccino\n● No classic syrup\n● Add Vanilla Syrup (2 pumps tall, 3 pumps grande, 4 pumps venti)\n● Add Raspberry Syrup (½ pump tall, 1 pump grande, 1.5 pumps venti)",
+    "premium":"1"
+  },
+  {
+    "id": 23,
+    "name": "Count Chocula Frappuccino",
+    "image":"di_count_chocula_frappuccino.jpeg",
+    "instruction":"● Whole milk to the first line\n● Add vanilla bean powder (2 scoops tall, 3 grande, 4 venti)\n● Add marshmallow syrup (1 pump tall, 1.5 grande, 2 venti)\n● Add mocha syrup (1 pump tall, 1.5 grande, 2 venti)\n● Top with whipped cream and optional mocha drizzle",
+    "premium":"0"
+  },
+  {
+    "id": 24,
+    "name": "Peanut Butter Cup Frappuccino",
+    "image":"di_peanut_butter_cup_frappuccino.jpeg",
+    "instruction":"● Mocha Frappuccino\n● Add toffee nut syrup (2 pumps tall, 3 grande, 4 venti)\n● Made with soy instead of whole milk\n● Add whip and top with mocha drizzle",
+    "premium":"0"
+  }
+]

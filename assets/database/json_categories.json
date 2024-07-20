@@ -1,0 +1,30 @@
+[
+  {
+    "id":0,
+    "name":"Frappuccinos"
+  },
+  {
+    "id":1,
+    "name":"Lattes"
+  },
+  {
+    "id":2,
+    "name":"Macchiatos"
+  },
+  {
+    "id":3,
+    "name":"Refreshers"
+  },
+  {
+    "id":4,
+    "name":"Hot Chocolate"
+  },
+  {
+    "id":5,
+    "name":"Smoothies"
+  },
+  {
+    "id":6,
+    "name":"Teas"
+  }
+]

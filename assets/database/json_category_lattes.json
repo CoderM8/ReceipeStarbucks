@@ -1,0 +1,156 @@
+[
+  {
+    "id": 33,
+    "name": "Pumpkin Chai Latte",
+    "image": "di_pumpkin_chai_latte.jpeg",
+    "instruction": "● Chai Tea Latte (1.5 pumps Chai for tall, 2 grande, 2.5 venti)\n●  Add pumpkin spice sauce (1.5 pumps tall, 2 grande, 2.5 venti)\n●  Top with whip and pumpkin spice topping\n●  Optional: Feel like drinking it dirty? Add an espresso shot for an extra kick",
+    "premium": "1"
+  },
+  {
+    "id": 34,
+    "name": "Vanilla Pumpkin Nut Latte",
+    "image": "di_vanilla_pumpkin_nut_latte.webp",
+    "instruction": "● Pumpkin Spice Latte\n●  Add toffee nut syrup (1 pump tall, 1.5 grande, 2 venti)\n●  Add vanilla syrup (1 pump tall & grande, 1.5 pumps venti)",
+    "premium": "0"
+  },
+  {
+    "id": 35,
+    "name": "Iced Raspberry Latte",
+    "image": "di_iced_raspberry_latte.png",
+    "instruction": "● Iced Flavored Latte\n●  Made with raspberry syrup",
+    "premium": "1"
+  },
+  {
+    "id": 36,
+    "name": "Christmas in a Cup Latte",
+    "image": "di_christmas_in_a_cup_latte.webp",
+    "instruction": "● Start with a Cinnamon Dolce Latte\n●  Add white mocha syrup (1.5 pumps tall, 2 pumps grande, 2.5 pumps venti)\n●  Add peppermint syrup (1/2 pump tall, 1 pump grande, 1.5 pumps venti)\n●  Optional: Top with chocolate whipped cream instead of regular if you like it extra chocolatey!",
+    "premium": "1"
+  },
+  {
+    "id": 37,
+    "name": "Gingerbread Chai Latte",
+    "image": "di_gingerbread_chai_latte.jpeg",
+    "instruction": "● Chai Tea Latte\n●  Add Gingerbread Syrup (1 pump tall, 2 grande, 3 venti)\n●  Top with whipped cream and molasses drizzle",
+    "premium": "0"
+  },
+  {
+    "id": 38,
+    "name": "Year Round Eggnog Latte",
+    "image": "di_year_round_eggnog_latte.jpeg",
+    "instruction": "● How to order (Latte):\n●  Chai Latte\n●  Add caramel syrup (1 pump tall, 2 grande, 3 venti)\n●   How to order (Iced):\n●   Iced Chai Latte\n●  Add caramel syrup (2 pumps tall, 3 grande, 4 venti)",
+    "premium": "1"
+  },
+  {
+    "id": 39,
+    "name": "White Chocolate Cinnamon Chai Latte",
+    "image": "di_white_chocolate_cinnamon_chai_latte.jpeg",
+    "instruction": "● Start with a Chai Latte (whole milk, no water is best)\n●  Add Cinnamon Dolce Syrup (1 pump tall, 2 Grande, 3 Venti)\n●  Add White Mocha Syrup (1 pump tall, 2 Grande, 3 Venti)\n●  Top with Whipped Cream & drizzle Cinnamon Dolce (optional) or sprinkle with cinnamon powder",
+    "premium": "0"
+  },
+  {
+    "id": 40,
+    "name": "Pumpkin Spice Choco-Chai",
+    "image": "di_pumpkin_spice_choco_chai.jpeg",
+    "instruction": "● Start with a Chai Tea Latte\n●  Add an extra pump of Chai\n●  Add Pumpkin Spice Syrup (1 pump for tall, 2 for grande, 3 for venti)\n●  Add Mocha Syrup (1 pump for tall, 2 for grande, 3 for venti)\n●  Top with whipped cream and pumpkin spice powder  ",
+    "premium": "0"
+  },
+  {
+    "id": 41,
+    "name": "Pumpkin Patch Latte",
+    "image": "di_pumpkin_patch_latte.jpeg",
+    "instruction": "● Pumpkin Spice Latte\n●  Steam in matcha green tea powder",
+    "premium": "1"
+  },
+  {
+    "id": 42,
+    "name": "Cha Cha Latte",
+    "image": "di_cha_cha_latte.jpeg",
+    "instruction": "● Matcha Green Tea Latte\n●  Add chai syrup, regular or Oprah (1 pump tall, 1.5 grande, 2 venti)\n●  No classic syrup",
+    "premium": "0"
+  },
+  {
+    "id": 43,
+    "name": "Passion Tea Latte",
+    "image": "di_passion_tea_latte.jpeg",
+    "instruction": "● Iced Passion Tea\n●  Made with soy milk instead of water\n●  Optional for extra sweetness and flavor: Add vanilla syrup (½ pump tall, 1 grande, 1.5 venti)",
+    "premium": "1"
+  },
+  {
+    "id": 44,
+    "name": "Green Tea Matcha",
+    "image": "di_green_tea_matcha.jpeg",
+    "instruction": "● Matcha Powder (1 scoop tall, 2 scoops grande, 3 scoops venti)\n●  Water",
+    "premium": "0"
+  },
+  {
+    "id": 45,
+    "name": "Raspberry Cheesecake Latte",
+    "image": "di_raspberry_cheesecake_latte.jpeg",
+    "instruction": "● Starbucks latte flavored with:\n●  Flan syrup (3 pumps tall, 4 grande, 5 venti)\n●  Cinnamon Dolce syrup (1.5 pumps tall, 2 grande, 3 venti)\n●  Raspberry syrup (1.5 pumps, 2 grande and venti)\n●  Caramel whip on top, flan drizzle optional",
+    "premium": "1"
+  },
+  {
+    "id": 46,
+    "name": "The Fog Nog Latte",
+    "image": "di_the_fog_nog_latte.jpeg",
+    "instruction": "● Earl Grey Tea Latte\n●  Made with eggnog instead of milk",
+    "premium": "0"
+  },
+  {
+    "id": 47,
+    "name": "Chapple Tea Latte",
+    "image": "di_chapple_tea_latte.jpeg",
+    "instruction": "● Caramel Apple Spice\n●  Add Chai concentrate",
+    "premium": "0"
+  },
+  {
+    "id": 48,
+    "name": "Hot Butterbeer Latte",
+    "image": "di_hot_butterbeer_latte.jpeg",
+    "instruction": "● Whole milk steamer\n●  Add Caramel syrup (2 for tall, 3 for grande, 4 for venti)\n●  Add Toffee nut syrup (2 for tall, 3 for grande, 4 for venti)\n●  Add Cinnamon Dolce syrup  (2 for tall, 3 for grande, 4 for venti)\n●  Whipped cream and salted caramel bits on top (or creme brulee topping if you prefer)\n●  Optional if you prefer to add a coffee taste: Add a shot of espresso (2 for a grande or venti)",
+    "premium": "1"
+  },
+  {
+    "id": 49,
+    "name": "Fall in a Cup Latte",
+    "image": "di_fall_in_a_cup_latte.jpeg",
+    "instruction": "● Pumpkin Spice Latte\n●  Add Caramel syrup (1.5 pumps for tall, 2 pumps for grande, 2.5 pumps for venti, 3 pumps for a cold venti)\n●  Add Chai Syrup ( 1 pump for tall, 1.5 pumps for grande, 2 pumps for venti, 2.5 for cold venti)\n●  Top with whipped cream, pumpkin powder and caramel drizzle",
+    "premium": "1"
+  },
+  {
+    "id": 50,
+    "name": "The Fuzzy Rabbit",
+    "image": "di_the_fuzzy_rabbit.webp",
+    "instruction": "● Start with a latte (Suggested) or an iced coffee\n●  Add White Mocha Syrup (2 pumps for a tall, 3 for a grande, 4 for a venti)\n●  Add Hazelnut Syrup (1 pump for a tall, 1.5 for a grande, 2 for a venti)",
+    "premium": "0"
+  },
+  {
+    "id": 51,
+    "name": "Butterscotch Latte",
+    "image": "di_butterscotch_latte.webp",
+    "instruction": "● Caramel and toffee nut syrup\n●  tall = 3 pumps of caramel and 3 pumps of toffee nut\n●  grande = 4 pumps of caramel and 4 pumps of toffee nut\n●  venti = 5 pumps of caramel and 5 pumps of toffee nut\n●  Topped with whipped cream, caramel drizzle and caramel brulee bites!\n●   **Note that caramel brulee bites may be seasonal at your local store.",
+    "premium": "1"
+  },
+  {
+    "id": 52,
+    "name": "Poor Man’s Chai Latte",
+    "image": "di_poor_mans_chai_latte.jpeg",
+    "instruction": "● Order a Chai Tea Misto with extra foam\n●  Add 2 tea bags\n●  Add cinnamon and vanilla syrup",
+    "premium": "0"
+  },
+  {
+    "id": 53,
+    "name": "The Three C’s",
+    "image": "di_the_three_cs.jpeg",
+    "instruction": "● Start with a Cinnamon Dolce Latte\n●  Add mocha syrup (1/2 pump tall, 1 pump grande, 1.5 pumps venti)\n●  Add caramel syrup (1/2 pump tall, 1 pump grande, 1.5 pumps venti)",
+    "premium": "1"
+  },
+  {
+    "id": 54,
+    "name": "Holly Jolly Latte",
+    "image": "di_holly_jolly_latte.jpeg",
+    "instruction": "● Eggnog Chai Latte\n●  No water\n●  Add peppermint syrup – 1 pump tall, 2 pumps grande, 3 pumps venti\n●  Top with nutmeg sprinkles and whipped cream",
+    "premium": "0"
+  }
+]

@@ -1,0 +1,163 @@
+[
+  {
+    "id": 64,
+    "name": "Juniper Lemonade",
+    "image":"di_juniper_lemonade.jpeg",
+    "instruction":"●  Lemonade\n●   Add juniper syrup (2 pumps tall, 3 grande, 4 venti)\n●   Add classic syrup (1 pump tall, 2 grande, 3 venti)",
+    "premium":"0"
+  },
+  {
+    "id": 65,
+    "name": "Pink Purple Drink",
+    "image":"di_pink_purple_drink.jpeg",
+    "instruction":"●  1 part Pink Drink (Strawberry Acai Refresher with coconut milk)\n●   1 part Purple Drink (Passion Iced Tea with soy, vanilla syrup & blackberries)",
+    "premium":"1"
+  },
+  {
+    "id": 66,
+    "name": "Matcha Pink Drink",
+    "image":"di_matcha_pink_drink.webp",
+    "instruction":"●  3 parts traditional Pink Drink (Strawberry Acai Refresher with coconut milk)\n●   Atop 1 part matcha coconut milk on the rocks",
+    "premium":"0"
+  },
+  {
+    "id": 67,
+    "name": "Sunset Refresher",
+    "image":"di_sunset_refresher.webp",
+    "instruction":"●  Cool Lime Refresher to the first line\n●   Lemonade to the second line and a few pieces of lime\n●   Top up with ice and black tea",
+    "premium":"1"
+  },
+  {
+    "id": 68,
+    "name": "Strawberry Mango Refresher",
+    "image":"di_strawberry_mango_refresher.webp",
+    "instruction":"●  Half strawberry acai\n●   Half water\n●   Mango syrup (2 pumps tall, 3 pumps grande, 4 pumps venti)\n●   Add ice",
+    "premium":"0"
+  },
+  {
+    "id": 69,
+    "name": "Strawberry Limeade",
+    "image":"di_strawberry_limeade.jpeg",
+    "instruction":"●  Strawberry Açai refresher to bottom line\n●   No water\n●   ½ lime refresher & ½ lemonade to second line\n●   Add ice and shake",
+    "premium":"1"
+  },
+  {
+    "id": 70,
+    "name": "Raspberry Lime Refresher",
+    "image":"di_raspberry_lime_refresher.jpeg",
+    "instruction":"●  Cool Lime Refresher\n●   Sub lemonade for water\n●   Add raspberry syrup (½ pump tall, 1 grande and venti)\n●   Optional: Add crème base and blend (Be sure to remove lime wheels!)",
+    "premium":"1"
+  },
+  {
+    "id": 71,
+    "name": "Mojito Refresher",
+    "image":"di_mojito_refresher.jpeg",
+    "instruction":"●  Cool Lime Refresher (hold the lime wheels until after blending)\n●   Add classic syrup (1 pump tall, 1.5 grande, 2 venti)\n●   Add peppermint syrup (½ pump tall, 1 grande, 1.5 venti)\n●   Add ice and blend",
+    "premium":"0"
+  },
+  {
+    "id": 72,
+    "name": "Coconut Lime Refresher",
+    "image":"di_coconut_lime_refresher.jpeg",
+    "instruction":"●  Cool lime refresher\n●   Made with coconut milk instead of water\n●   Optional: Remove lime slices & blend for a slushie treat. Top with whip.\n●   Optional for extra sweetness: Add classic syrup (1 pump tall, 2 grande, 3 venti)",
+    "premium":"1"
+  },
+  {
+    "id": 73,
+    "name": "Love on the Rocks Refresher",
+    "image":"di_love_on_the_rocks_refresher.webp",
+    "instruction":"●  Berry Hibiscus Refresher (without the blackberries)\n●   Replace the water with Apple Juice\n●   Add Raspberry Syrup (1 pump tall, 2 grande, 3 venti, 4 trenta)\n●   Top with a splash of Passion Iced Tea",
+    "premium":"1"
+  },
+  {
+    "id": 74,
+    "name": "Purple Rain Refresher",
+    "image":"di_purple_rain_refresher.webp",
+    "instruction":"●  Cool Lime Refresher to the first line\n●   Water or lemonade to the second line\n●   Blend\n●   Slowly add the raspberry syrup on top (3 pumps tall, 4 grande, 6 venti)\n●   Top with a lime and enjoy!",
+    "premium":"1"
+  },
+  {
+    "id": 75,
+    "name": "Lava Flow Refresher",
+    "image":"di_lava_flow_refresher.jpeg",
+    "instruction":"●  Iced Passion Tea Lemonade\n●   Add strawberry juice\n●   Add classic syrup (1 pump tall, 2 grande, 3 venti)\n●   Shake, shake, shake!\n●   Add Orange Mango floating on top and watch the fun!",
+    "premium":"0"
+  },
+  {
+    "id": 76,
+    "name": "Fruit Roll Up Refresher",
+    "image":"di_fruit_roll_up_refresher.jpeg",
+    "instruction":"●  Orange Valencia Refresher\n●   Made with strawberry juice instead of water\n●   Add orange slices",
+    "premium":"1"
+  },
+  {
+    "id": 77,
+    "name": "Limeade Refresher",
+    "image":"di_limeade_refresher.jpeg",
+    "instruction":"●  Cool lime refresher\n●   Substitute the water for lemonade\n●   Add cool lime wedges",
+    "premium":"0"
+  },
+  {
+    "id": 78,
+    "name": "Zen Refresher",
+    "image":"di_zen_refresher.jpeg",
+    "instruction":"●  Half Cool Lime\n●   Half Green Tea concentrate (No Water)\n●   Add 2 pumps of Peach Syrup (Optional, to add extra sweetness and flavor)\n●   Ice it and shake",
+    "premium":"0"
+  },
+  {
+    "id": 79,
+    "name": "Pixy Stix Refresher",
+    "image":"di_pixy_stix_refresher.jpeg",
+    "instruction":"●  Half Passion Tea, Half Valencia Orange Refresher\n●   No water\n●   No orange slices\n●   Classic Syrup (2 for a tall, 2 for a grande, 3 for a venti)\n●   Raspberry Syrup (1 for a tall, 2 for a grande, 3 for a venti)",
+    "premium":"1"
+  },
+  {
+    "id": 80,
+    "name": "Cold Russian Tea Refresher",
+    "image":"di_cold_russian_tea_refresher.jpeg",
+    "instruction":"●  Valencia Orange Refresher\n●   Add Chai Syrup (1 pump tall, 2pumps grande, 3 pumps venti)\n●   Add Classic Syrup (1 pump tall, 2pumps grande, 3 pumps venti)\n●   Sprinkle in some nutmeg for extra spice",
+    "premium":"0"
+  },
+  {
+    "id": 81,
+    "name": "Sour Gummy Worm Refresher",
+    "image":"di_sour_gummy_worm_refresher.jpeg",
+    "instruction":"●  Valencia Orange Refresher\n●   Add Raspberry Syrup (1/2 pump for a tall, 1 pump for grande, 1.5 pumps for venti)\n●   Add Peach Syrup (1/2 pump for a tall, 1 pump for grande, 1.5 pumps for venti)",
+    "premium":"0"
+  },
+  {
+    "id": 82,
+    "name": "Citrus Berry Passion Refresher",
+    "image":"di_citrus_berry_passion_refresher.jpeg",
+    "instruction":"●  Berry Refresher to first cold cup line\n●   Lime Refresher to the second cold cup line\n●   Lemonade to the third cold cup line\n●   Scoop of ice.\n●   Finished off with a splash of Passion Tea unsweetened",
+    "premium":"1"
+  },
+  {
+    "id": 83,
+    "name": "Sweet n’Sour Summer Splasher",
+    "image":"di_sweet_n_sour_summer_splasher.jpeg",
+    "instruction":"●  Half and half or both Refresher Flavors (Berry Hibiscus and Cool Lime)\n●   Made with lemonade instead of water\n●   Blended like a Frappuccino",
+    "premium":"0"
+  },
+  {
+    "id": 84,
+    "name": "The Sweetart Refresher",
+    "image":"di_the_sweetart_refresher.jpeg",
+    "instruction":"●  Orange valencia to the first line\n●   Lemonade to the second line\n●   Add raspberry syrup (1 pump tall & grande, 2 pumps venti & trenta)\n●   Add normal amounts of classic syrup according to size\n●   Optional: Blend into slushie form",
+    "premium":"1"
+  },
+  {
+    "id": 85,
+    "name": "Strawberry Sunset Refresher",
+    "image":"di_strawberry_sunset_refresher.jpeg",
+    "instruction":"●  Strawberry acai to the first line\n●   Water to the third line\n●   Add mango syrup (1 pump tall, 1½ grande, 2 venti)\n●   Add peach syrup (1 pump tall, 1½ grande, 2 venti)\n●   Fizzed then poured over ice\n●   Note: If your Starbucks location no longer has a Fizzio machine, this beverage can be enjoyed without fizz as well!",
+    "premium":"0"
+  },
+  {
+    "id": 86,
+    "name": "Fruit Punch Refresher",
+    "image":"di_fruit_punch_refresher.jpeg",
+    "instruction":"●  Start with a Valencia Orange Refresher (including orange slices), with a tad more water than orange\n●   Add Raspberry Syrup (1 pump for a tall, 2 pumps for a grande, 3 pumps for a venti)\n●   Add Peach Syrup (1 pump for a tall, 1.5 for a grande, 2 for a venti)\n●   Shake and enjoy",
+    "premium":"1"
+  }
+]
